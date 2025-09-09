@@ -1,6 +1,6 @@
 # 🌥️  Steam Clouds
 
-[![Release](https://img.shields.io/github/v/release/R3verseNinja/steamclouds?style=for-the-badge&color=blue)](https://github.com/R3verseNinja/steamclouds/releases)
+[![Release](https://img.shields.io/github/v/release/R3verseNinja/steamclouds?style=for-the-badge&color=blue&cacheSeconds=300)](https://github.com/R3verseNinja/steamclouds/releases)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/steamclouds/total?style=for-the-badge&color=brightgreen)](https://github.com/R3verseNinja/steamclouds/releases)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQ5WTPclB4f9DALY8GqPCJw?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/@smart_mods)
 [![Donate](https://img.shields.io/badge/Donate-Saweria%20%7C%20Ko--Fi%20%7C%20PayPal-orange?style=for-the-badge&logo=paypal)](#-support--donate)

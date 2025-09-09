@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/R3verseNinja/steamclouds?style=for-the-badge&color=blue)](https://github.com/R3verseNinja/steamclouds/releases)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/steamclouds/total?style=for-the-badge&color=brightgreen)](https://github.com/R3verseNinja/steamclouds/releases)
-[![Discord](https://img.shields.io/discord/1144275336424065054?logo=discord&style=for-the-badge&color=7289da)](https://discord.gg/G89gC8wJg4)
+[![Discord](https://img.shields.io/discord/1411259530284630138?logo=discord&style=for-the-badge&color=7289da)](https://discord.gg/G89gC8wJg4)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQ5WTPclB4f9DALY8GqPCJw?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/@smart_mods)
 [![Donate](https://img.shields.io/badge/Donate-Saweria%20%7C%20Ko--Fi%20%7C%20PayPal-orange?style=for-the-badge&logo=paypal)](#-support--donate)
 

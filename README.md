@@ -1,4 +1,4 @@
-# 🌥️  Steam Clouds
+# 🛠️  Steam Clouds
 
 [![Release](https://img.shields.io/github/v/release/R3verseNinja/steamclouds?style=for-the-badge&color=blue&cacheSeconds=300)](https://github.com/R3verseNinja/steamclouds/releases)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/steamclouds/total?style=for-the-badge&color=brightgreen&cacheSeconds=300)](https://github.com/R3verseNinja/steamclouds/releases)

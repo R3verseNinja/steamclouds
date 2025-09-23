@@ -2,7 +2,9 @@
 
 [![Release](https://img.shields.io/github/v/release/R3verseNinja/steamclouds?style=for-the-badge&color=blue&cacheSeconds=300)](https://github.com/R3verseNinja/steamclouds/releases)
 [![Downloads](https://img.shields.io/github/downloads/R3verseNinja/steamclouds/total?style=for-the-badge&color=brightgreen&cacheSeconds=300)](https://github.com/R3verseNinja/steamclouds/releases)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQ5WTPclB4f9DALY8GqPCJw?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://youtube.com/@smart_mods)
+[![Website](https://img.shields.io/badge/Website-steamclouds.online-0aa2ff?logo=google-chrome)](https://steamclouds.online)
+[![YouTube](https://img.shields.io/badge/YouTube-@smart__mods-FF0000?logo=youtube)](https://youtube.com/@smart_mods)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord)](https://discord.gg/Qsp6Sbq6wy)
 [![Donate](https://img.shields.io/badge/Donate-Saweria%20%7C%20Ko--Fi%20%7C%20PayPal-orange?style=for-the-badge&logo=paypal)](#-support--donate)
 
 **Steam Clouds** helps you manage Lua scripts for **SteamTools** with ease.  
